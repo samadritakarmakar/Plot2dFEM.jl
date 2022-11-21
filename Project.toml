@@ -1,0 +1,4 @@
+name = "Plot1dFEM"
+uuid = "7ee868e1-e52f-46e8-89ff-4414b281a302"
+authors = ["sam <samadritakarmakar@gmail.com>"]
+version = "0.1.0"
