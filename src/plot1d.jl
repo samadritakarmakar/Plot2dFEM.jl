@@ -1,4 +1,4 @@
-using RapidFEM, Plots
+#using RapidFEM, Plots
 #pyplot()
 #pgfplotsx()
 function plotElements!(p1::Plots.Plot, solution::AbstractVector{Float64}, colour::String, mesh::Mesh, volAttrib::Tuple{Int64, Int64}, 
